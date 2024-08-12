@@ -1,6 +1,3 @@
-Executed Code: -
-// Paste the executed code here
-
 #include <iostream>
 using namespace std;
 
